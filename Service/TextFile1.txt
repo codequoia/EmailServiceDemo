@@ -1,0 +1,2 @@
+﻿IEmailService emailService=EmailFactory.CreateEmailService(authenticationType,apiKey, null, null)
+EmailService.SendEmail()
